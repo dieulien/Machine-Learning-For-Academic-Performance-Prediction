@@ -1,4 +1,4 @@
-# ait-data-mining
+# Machine-Learning-For-Academic-Performance-Prediction
 Jupyter notebooks from AIT Data Mining's Final Project
 
 <b>Collaborators: Ricki Su, Rachel Wang</b>
